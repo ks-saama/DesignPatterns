@@ -1,3 +1,5 @@
+package device_remote;
+
 public class AdvancedRemoteControl extends RemoteControl {
 
     public AdvancedRemoteControl(final Device device) {

@@ -1,3 +1,5 @@
+package workshop;
+
 public class Assemble extends Workshop {
     @Override
     public void doWork(){

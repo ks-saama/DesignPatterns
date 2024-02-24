@@ -1,3 +1,5 @@
+package workshop;
+
 public abstract class Vehicle {
     protected Workshop workshop1;
     protected Workshop workshop2;

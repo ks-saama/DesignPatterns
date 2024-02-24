@@ -1,3 +1,5 @@
+package workshop;
+
 public class Car extends Vehicle {
     public Car(final Workshop workshop1, final Workshop workshop2){
         super(workshop1, workshop2);

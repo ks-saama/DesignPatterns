@@ -1,3 +1,5 @@
+package device_remote;
+
 public abstract class RemoteControl {
     protected Device device;
 

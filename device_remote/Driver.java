@@ -1,3 +1,5 @@
+package device_remote;
+
 public class Driver {
     public static void main(String[] args) {
         var tv = new TV();
