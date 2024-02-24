@@ -1,3 +1,5 @@
+package datasource;
+
 public class DataSourceEncryptionDecorator extends DataSourceDecorator {
 
     public DataSourceEncryptionDecorator(IDataSource dataSource) {

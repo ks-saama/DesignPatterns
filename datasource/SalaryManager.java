@@ -1,17 +1,16 @@
+package datasource;
 
-public abstract class DataSourceDecorator implements IDataSource {
-    protected IDataSource dataSource;
+public class SalaryManager implements IDataSource {
+    private final IDataSource dataSource;
 
-    protected DataSourceDecorator(final IDataSource dataSource) {
+    public SalaryManager(final IDataSource dataSource) {
         this.dataSource = dataSource;
     }
 
-    @Override
     public void writeData(String data) {
         dataSource.writeData(data);
     }
 
-    @Override
     public String readData() {
         return dataSource.readData();
     }
