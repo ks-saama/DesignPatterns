@@ -1,3 +1,5 @@
+package tooltip;
+
 public class Dialog extends Container {
     private String dialogHelpText;
 

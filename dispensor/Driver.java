@@ -1,3 +1,5 @@
+package dispensor;
+
 public class Driver {
     public static void main(String[] args) {
         Currency currency = new Currency(9);

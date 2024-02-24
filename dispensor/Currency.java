@@ -1,3 +1,5 @@
+package dispensor;
+
 public class Currency {
     private final int amount;
 

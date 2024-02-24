@@ -1,6 +1,8 @@
-public class Rupee20Dispenser implements DispenseChain {
+package dispensor;
+
+public class Rupee50Dispenser implements DispenseChain {
     private DispenseChain nextDispenser;
-    private static final int AMOUNT = 20;
+    private static final int AMOUNT = 50;
 
     @Override
     public void setNextDispenseChain(final DispenseChain nextDispenseChain) {

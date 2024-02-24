@@ -1,3 +1,5 @@
+package tooltip;
+
 public class Driver {
     public static void main(String[] args) {
         final var dialog = new Dialog();

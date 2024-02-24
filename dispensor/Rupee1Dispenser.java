@@ -1,3 +1,5 @@
+package dispensor;
+
 public class Rupee1Dispenser implements DispenseChain {
     private DispenseChain nextDispenser;
     private static final int AMOUNT = 1;

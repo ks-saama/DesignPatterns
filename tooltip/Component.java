@@ -1,3 +1,5 @@
+package tooltip;
+
 public abstract class Component implements ComponentWithContextualHelp {
     private String tooltipText;
 

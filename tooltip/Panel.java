@@ -1,3 +1,5 @@
+package tooltip;
+
 public class Panel extends Container {
     private String modalHelpText;
 
