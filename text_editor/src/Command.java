@@ -1,3 +1,5 @@
+package text_editor.src;
+
 public abstract class Command {
     protected Application application;
 

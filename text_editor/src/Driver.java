@@ -1,3 +1,5 @@
+package text_editor.src;
+
 public class Driver {
     public static void main(String[] args) {
         Editor editor = new Editor("NotePad");

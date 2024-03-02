@@ -1,5 +1,5 @@
-import java.util.ArrayList;
-import java.util.List;
+package text_editor.src;
+
 import java.util.Stack;
 
 public class CommandHistory {

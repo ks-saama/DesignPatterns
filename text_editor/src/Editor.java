@@ -1,3 +1,5 @@
+package text_editor.src;
+
 public class Editor {
     private String text;
 

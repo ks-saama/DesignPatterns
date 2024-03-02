@@ -1,3 +1,5 @@
+package text_editor.src;
+
 import java.util.ArrayList;
 import java.util.List;
 

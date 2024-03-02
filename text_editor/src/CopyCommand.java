@@ -1,3 +1,5 @@
+package text_editor.src;
+
 public class CopyCommand extends Command {
     protected CopyCommand(final Application application, final Editor editor) {
         super(application, editor);

@@ -1,3 +1,5 @@
+package text_editor.src;
+
 public class CutCommand extends Command {
     protected CutCommand(final Application application, final Editor editor) {
         super(application, editor);

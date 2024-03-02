@@ -1,3 +1,5 @@
+package text_editor.src;
+
 public class PasteCommand extends Command {
     protected PasteCommand(final Application application, final Editor editor) {
         super(application, editor);
