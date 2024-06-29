@@ -1,4 +1,4 @@
-package com;
+package DesignPatterns.VehicleExample.src.com;
 
 public class Director
 {

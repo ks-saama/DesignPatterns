@@ -1,4 +1,4 @@
-package com;
+package DesignPatterns.VehicleExample.src.com;
 
 import java.util.LinkedList;
 import java.util.List;
