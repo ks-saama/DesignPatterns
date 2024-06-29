@@ -1,3 +1,5 @@
+package chat.src;
+
 public class User extends IUser {
     public User(final String name, final IChatMediator chatMediator) {
         super(name, chatMediator);

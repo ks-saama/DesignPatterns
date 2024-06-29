@@ -1,3 +1,5 @@
+package chat.src;
+
 public class Driver {
     public static void main(String[] args) {
         IChatMediator strawHats = new ChatMediatorImpl();

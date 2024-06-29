@@ -1,3 +1,5 @@
+package chat.src;
+
 public abstract class IUser {
     protected IChatMediator chatMediator;
     protected String name;

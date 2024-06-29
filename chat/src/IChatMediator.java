@@ -1,3 +1,5 @@
+package chat.src;
+
 public interface IChatMediator {
     void addUser(IUser user);
 
