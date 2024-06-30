@@ -1,4 +1,4 @@
-package peg_example;
+package ObjectComposition.src.peg_example;
 
 /**
  * Adapter allows fitting square pegs into round holes.

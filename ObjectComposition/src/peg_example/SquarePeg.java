@@ -1,4 +1,4 @@
-package peg_example;
+package ObjectComposition.src.peg_example;
 
 /**
  * SquarePegs are not compatible with RoundHoles (they were implemented by
